@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "00EA177FF5496495DD1BAAC1A6508619",
+  "keywordClasses": [
+    {
+      "name": "myTestPackage.MyTestScript",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
